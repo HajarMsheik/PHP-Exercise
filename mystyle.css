@@ -1,0 +1,21 @@
+h2{
+    color:black;
+    width:50%;
+    background-color:rgb(238, 222, 247);
+    border-radius: 2rem;
+    text-align:center;
+}
+input{
+    border-radius: 0.5rem;
+    line-height: 1.5rem;
+}
+
+.items {
+    display:flex;
+    flex-direction:column; 
+    padding:0.5rem;
+}
+.signup{
+ background-color: rgb(99, 95, 102);
+}
+/* ////////////////////////////////////////////////////////////////////////////////// */
